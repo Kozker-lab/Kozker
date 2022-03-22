@@ -1,4 +1,4 @@
-![K_v1](https://user-images.githubusercontent.com/102167293/159512595-31c99a3e-c393-4c08-92f1-6bf775af18fd.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Kozker-lab/Kozker-lab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
