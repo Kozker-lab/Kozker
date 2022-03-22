@@ -1,7 +1,5 @@
 # Kozker Lab
 
-👋 Hi, I’m Govind from @Kozker-lab. 
-
 I created kozker lab as a personal project.
 Through kozker lab, I aim to learn and more importantly share everything i learn.
  
