@@ -1,4 +1,4 @@
-# Intro to Kozker-lab
+#Kozker Lab
 
 👋 Hi, I’m Govind from @Kozker-lab. 
 
